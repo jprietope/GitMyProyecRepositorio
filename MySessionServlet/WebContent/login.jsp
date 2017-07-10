@@ -26,6 +26,7 @@
 			<button>Enviar</button>
 		</form>
 	</section>
+	<!-- comment -->
 	
 	<jsp:include page="footer.jsp"></jsp:include>
 
